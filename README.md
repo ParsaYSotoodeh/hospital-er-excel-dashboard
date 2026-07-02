@@ -14,7 +14,6 @@ The project focuses on transforming raw healthcare data into an interactive dash
 
 ## 📊 Dashboard Preview
 
-> *(Add a screenshot of the dashboard here.)*
 
 ![Dashboard](images/dashboard.png)
 
